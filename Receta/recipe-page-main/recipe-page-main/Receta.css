@@ -1,0 +1,40 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    #tarjeta{
+      width: 600px;
+      border-radius: 10px solid rgb(255, 255, 255);
+      margin: 0 auto; 
+      padding: 20px; 
+      background-color: white;      
+      
+    }
+
+    h3{
+      color: red;
+      font-size: 20px;
+    }
+
+    table{
+      width: 620px;
+    }
+
+    th, td{
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+
+    }
+
+    #imagen{
+      width: 600px;
+      border-radius: 20px;
+    }
+
+    #contenedor{
+      background-color: pink;
+      height: 1300px;
+    }
+
+    hr{
+      color: rgb(234, 234, 225);
+    }
